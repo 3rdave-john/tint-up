@@ -5,6 +5,9 @@ import Avatar from './Avatar';
 const App = () => (
   <div className="App">
     <Avatar />
+    <Avatar />
+    <Avatar />
+    <Avatar />
   </div>
 );
 
